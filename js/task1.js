@@ -1,4 +1,5 @@
-const productName = "Генератор защитного поля";
-const pricePerIteam = 1000;
-
-console.log(typeof productName);
+let name = '"Генератор защитного поля"';
+let price = 2000;
+console.log(`Выбран ${name}, цена за штуку ${price} кредитов`);
+price = 2000;
+console.log(`Выбран ${name}, цена за штуку ${price} кредитов`);
